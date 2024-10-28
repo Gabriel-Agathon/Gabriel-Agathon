@@ -2,8 +2,8 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me ...
-- 😄 Pronouns: he/him
+- 📫 How to reach me loki.agathon@gmail.com
+- 😄 Pronouns: any
 - ⚡ Fun fact: I'm doing a lot of other stuff
 
 <!---
